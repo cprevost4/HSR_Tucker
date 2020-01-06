@@ -1,5 +1,7 @@
 # HSR_Tucker: Hyperspectral Super-Resolution with Coupled Tucker Approximation
 
+<b> Warning - This repository is no longer up to date. Please visit https://github.com/cprevost4/HSR_Software for the up-to-date software. <\b> 
+
 This repository contains the implementation for the methods proposed in the preprint:
 ```
 @unpublished{prevost:hal-01911969,
