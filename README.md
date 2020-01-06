@@ -15,17 +15,4 @@ This repository contains the implementation for the methods proposed in the prep
 ```
 It also reproduces the results of the experiments from the preprint.
 
-## Installation 
-[TensorLab v.3.0](https://www.tensorlab.net) should be installed and should be on the MATLAB path.
-
-The datasets used in the examples can be downloaded [here](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes).
-
-For some of the experiments, the following packages need to be downloaded:
- * [Codes for the STEREO method](https://github.com/marhar19/HSR_via_tensor_decomposition) for some  comparisons with comparisons with  the STEREO methods
- * [HySure package](https://github.com/alfaiate/HySure/tree/master/src) for comparisons with HySure
- * [Export Fig](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig) to save some figures in PDF
-
-## Contents
- * `src` contains the source codes for the methods
- * `demos` contains the codes for the reproducivle examples
  
